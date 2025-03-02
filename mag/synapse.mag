@@ -211,15 +211,15 @@ rect 1242 -570 1248 -514
 rect 1088 -796 1094 -740
 rect 1150 -796 2230 -740
 rect 2286 -796 2292 -740
-use sky130_fd_pr__nfet_01v8_LAQ5H5  XM7 /mnt/g/Mi unidad/Xschem/shared_xschem/gdrive/Synapse/TT_submision/magic
+use sky130_fd_pr__nfet_01v8_LAQ5H5  XM7
 timestamp 1740782616
 transform 0 1 2418 1 0 -635
 box -211 -310 211 310
-use sky130_fd_pr__nfet_01v8_LY9833  XM8 /mnt/g/Mi unidad/Xschem/shared_xschem/gdrive/Synapse/TT_submision/magic
+use sky130_fd_pr__nfet_01v8_LY9833  XM8
 timestamp 1740782616
 transform 0 1 1315 1 0 -212
 box -211 -252 211 252
-use sky130_fd_pr__pfet_01v8_JC5RM4  XM9 /mnt/g/Mi unidad/Xschem/shared_xschem/gdrive/Synapse/TT_submision/magic
+use sky130_fd_pr__pfet_01v8_JC5RM4  XM9
 timestamp 1740782616
 transform 0 1 2427 1 0 -161
 box -263 -319 263 319
@@ -227,7 +227,7 @@ use sky130_fd_pr__pfet_01v8_JC5RM4  XM10
 timestamp 1740782616
 transform 0 1 2427 1 0 365
 box -263 -319 263 319
-use sky130_fd_pr__pfet_01v8_EBBUFJ  XM11 /mnt/g/Mi unidad/Xschem/shared_xschem/gdrive/Synapse/TT_submision/magic
+use sky130_fd_pr__pfet_01v8_EBBUFJ  XM11
 timestamp 1740782616
 transform 0 -1 1325 1 0 -635
 box -211 -261 211 261
@@ -235,11 +235,11 @@ use sky130_fd_pr__nfet_01v8_LY9833  XM12
 timestamp 1740782616
 transform 0 1 1316 1 0 -1057
 box -211 -252 211 252
-use sky130_fd_pr__pfet_01v8_hvt_EBBUFJ  XM13 /mnt/g/Mi unidad/Xschem/shared_xschem/gdrive/Synapse/TT_submision/magic
+use sky130_fd_pr__pfet_01v8_hvt_EBBUFJ  XM13
 timestamp 1740782616
 transform 0 1 1847 1 0 -635
 box -211 -261 211 261
-use sky130_fd_pr__nfet_01v8_lvt_LAQ5H5  XM14 /mnt/g/Mi unidad/Xschem/shared_xschem/gdrive/Synapse/TT_submision/magic
+use sky130_fd_pr__nfet_01v8_lvt_LAQ5H5
 timestamp 1740782616
 transform 0 1 2418 1 0 -1057
 box -211 -310 211 310
@@ -255,7 +255,7 @@ use sky130_fd_pr__pfet_01v8_EBBUFJ  XM18
 timestamp 1740782616
 transform 0 1 1847 1 0 -213
 box -211 -261 211 261
-use sky130_fd_pr__nfet_01v8_lvt_LY9833  XM19 /mnt/g/Mi unidad/Xschem/shared_xschem/gdrive/Synapse/TT_submision/magic
+use sky130_fd_pr__nfet_01v8_lvt_LY9833  XM19
 timestamp 1740782616
 transform 0 1 1315 1 0 210
 box -211 -252 211 252
