@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "Neuromorphic circuits (rar)"      # Project title
-  author:       "Ricardo Tirado, Royce Ramírez and Abraham Salazar"      # Your name
+  author:       "Ricardo Tirado, Royce Richmond and Abraham Salazar"      # Your name
   discord:      "ricardoatt"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "This project implements 3 neuromorphic circuits in the analog domain."      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
@@ -24,7 +24,7 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
+  ui[0]: "ctrl_synapse"
   ui[1]: ""
   ui[2]: ""
   ui[3]: ""
@@ -57,7 +57,7 @@ pinout:
   ua[0]: "Vin0"
   ua[1]: "Vin1"
   ua[2]: "Vin2"
-  ua[3]: ""
+  ua[3]: "synapse_out_RR"
   ua[4]: "Vout_ratt"
   ua[5]: ""
 

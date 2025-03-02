@@ -1,6 +1,6 @@
 magic
-tech sky130A
-timestamp 1740775810
+tech sky130B
+timestamp 1740941731
 << metal4 >>
 rect 3067 22476 3097 22576
 rect 3343 22476 3373 22576
@@ -55,6 +55,10 @@ rect 9385 0 9475 100
 rect 11317 0 11407 100
 rect 13249 0 13339 100
 rect 15181 0 15271 100
+use synapse  synapse_0
+timestamp 1740881680
+transform 1 0 1931 0 1 20673
+box 499 -634 1398 314
 << labels >>
 flabel metal4 s 14383 22476 14413 22576 0 FreeSans 240 90 0 0 clk
 port 0 nsew signal input
